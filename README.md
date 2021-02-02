@@ -17,3 +17,8 @@ pairing interaction in the three-band Hubbard model, which treats the orbital de
 predominately acts between neighboring copper orbitals, but with significant additional weight appearing on the surrounding bonding molecular 
 oxygen orbitals. By explicitly comparing these results to those from the simpler single-band Hubbard model, our study provides strong support 
 for the single-band framework for describing superconductivity in the cuprates.
+
+Contents:
+- Source files for the mansucript, including figures. 
+- Mathematical Scripts for plotting the figures.
+- Copies of the DCA++ data files.
