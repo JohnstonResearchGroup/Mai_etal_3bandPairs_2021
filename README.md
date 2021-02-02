@@ -1,7 +1,5 @@
 # Mai_etal_3bandPairs_2021
 
-Source code and data files for the manuscript "Orbital structure of the effective pairing interaction in the high-temperature superconducting cuprates".
-
 Reference: P. Mai et al, npj Quantum Materials, in press (2021).
 
 Preprint Version: arXiv:2009.14235 (2020). (https://arxiv.org/abs/2009.14235)
