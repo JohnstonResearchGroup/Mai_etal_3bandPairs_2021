@@ -18,6 +18,8 @@ predominately acts between neighboring copper orbitals, but with significant add
 oxygen orbitals. By explicitly comparing these results to those from the simpler single-band Hubbard model, our study provides strong support 
 for the single-band framework for describing superconductivity in the cuprates.
 
+The Fork of the DCA++ code that was used to generate this data can be found at https://github.com/cosdis/DCA.git
+
 Contents:
 - Source files for the mansucript, including figures. 
 - Mathematical Scripts for plotting the figures.
