@@ -1,8 +1,10 @@
 # Mai_etal_3bandPairs_2021
 
-Reference: P. Mai et al, npj Quantum Materials, in press (2021).
+Reference: P. Mai et al, npj Quantum Materials 6, Article number: 26 (2021). 
+(https://www.nature.com/articles/s41535-021-00326-5)
 
 Preprint Version: arXiv:2009.14235 (2020). (https://arxiv.org/abs/2009.14235)
+
 
 Title: Orbital structure of the effective pairing interaction in the high-temperature superconducting cuprates
 
